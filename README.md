@@ -1,16 +1,23 @@
 ### Hi there I am Ajeeth Thangarasu👋
 
-<!--
-**AjeethT/AjeethT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working as a Software Development Analyst at Accenture. Have three years of working experience in full stack technologies such as ReactJS, ASP.NET Web API, MS SQL, Azure DevOps Platform. Worked in Azure Platform for Code Repos management, Build and Release Pipelines and managing of different environments such as Dev, Test and Production Environment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stacks Experiences
+
+| Tech/Skill | Intermediate/Work Exp | Learning/Beginner Exp |
+| - | - | - |
+| Programming Languages | C#, JavaScript | GoLang, TypeScript, C++ |
+| Frontend Techs | HTML, CSS, ReactJS - Class and Functional components, WPF | NextJS, Redux, TailwindCSS |
+| Backend Techs | ASP.NET - Web API, Entity Framework, SQL Kata | NodeJS, GoLang
+| DataBase Techs | MS SQL - Store Procedures, Jobs | PostgreSQL |
+| DevOps | Azure DevOps - Repo, CI/CD Pipelines, Library, GIT| |
+| Other Techs | | Docker, Hyperledger Fabric Framework |
+
+### Links
+
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ajeetht)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeeth-thangarasu/)
+
