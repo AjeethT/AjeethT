@@ -13,6 +13,7 @@
 | Backend Techs | ASP.NET - Web API, Entity Framework, SQL Kata | NodeJS, GoLang
 | DataBase Techs | MS SQL - Store Procedures, Jobs | PostgreSQL |
 | DevOps | Azure DevOps - Repo, CI/CD Pipelines, Library, GIT| |
+| Cloud Techs | | Azure |
 | Other Techs | | Docker, Hyperledger Fabric Framework |
 
 ### Links
