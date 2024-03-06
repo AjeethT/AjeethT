@@ -8,7 +8,7 @@
 
 | Tech/Skill | Intermediate/Work Exp | Learning/Beginner Exp |
 | - | - | - |
-| Programming Languages | C#, JavaScript | GoLang, TypeScript, C++ |
+| Programming Languages | C#, JavaScript | GoLang, TypeScript, Python | C++ |
 | Frontend Techs | HTML, CSS, ReactJS - Class and Functional components, WPF | NextJS, Redux, TailwindCSS |
 | Backend Techs | ASP.NET - Web API, Entity Framework, SQL Kata | NodeJS, GoLang
 | DataBase Techs | MS SQL - Store Procedures, Jobs | PostgreSQL |
