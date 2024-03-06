@@ -1,6 +1,6 @@
 ### Hi there I am Ajeeth Thangarasu👋
 
-- Currently working as a Software Development Analyst at Accenture. Have three years of working experience in full stack technologies such as ReactJS, ASP.NET Web API, MS SQL, Azure DevOps Platform. Worked in Azure Platform for Code Repos management, Build and Release Pipelines and managing of different environments such as Dev, Test and Production Environment.
+- Currently working as a Software Development Analyst at Accenture. Have three years of working experience in full stack technologies such as ReactJS, ASP.NET Web API, MS SQL, Azure DevOps Platform. Worked in Azure DevOps Platform for Code Repos management, Build and Release Pipelines and managing of different environments such as Dev, Test and Production Environment.
 
 ---
 
@@ -13,7 +13,7 @@
 | Backend Techs | ASP.NET - Web API, Entity Framework, SQL Kata | NodeJS, GoLang
 | DataBase Techs | MS SQL - Store Procedures, Jobs | PostgreSQL |
 | DevOps | Azure DevOps - Repo, CI/CD Pipelines, Library, GIT| |
-| Cloud Techs | | Azure |
+| Cloud Techs | | Azure Cloud |
 | Other Techs | | Docker, Hyperledger Fabric Framework |
 
 ### Links
