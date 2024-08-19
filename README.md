@@ -8,9 +8,9 @@
 
 | Tech/Skill | Intermediate/Work Exp | Learning/Beginner Exp |
 | - | - | - |
-| Programming Languages | C#, JavaScript | GoLang, TypeScript, Python, C++ |
+| Programming Languages | C#, JavaScript | GoLang, TypeScript, Rust, C++ |
 | Frontend Techs | HTML, CSS, ReactJS - Class and Functional components, WPF | NextJS, Redux, TailwindCSS |
-| Backend Techs | ASP.NET - Web API, Entity Framework, SQL Kata | NodeJS, GoLang
+| Backend Techs | ASP.NET - Web API, Entity Framework, SQL Kata | NodeJS, Fiber - Golang|
 | DataBase Techs | MS SQL - Store Procedures, Jobs | PostgreSQL |
 | DevOps | Azure DevOps - Repo, CI/CD Pipelines, Library, GIT| |
 | Cloud Techs | | Azure Cloud |
